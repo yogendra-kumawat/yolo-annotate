@@ -1,6 +1,6 @@
 # 🏷️ YOLO Bounding Box Annotator
 
-<div align="center">
+<div align="center"> 
 
 **A lightweight, keyboard-free image annotation tool built with pure OpenCV — draw boxes with your mouse, save YOLO `.txt` labels instantly.**
 
